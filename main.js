@@ -1,6 +1,5 @@
 const mainScroll = document.querySelector('.scroll-imgs');
 
-
 function startScrolling() {
     let moveu = 0;
     setInterval(() => {
